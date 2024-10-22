@@ -3,7 +3,7 @@
 - This project is implementation of Binary Search Tree(BST) & various data structures, such as linked list and queue.\
 Member information is including `name`, `age`, `collection date` and `type`.\
 The data format and conditions are as follows.
-
+    ```
     1. The member's name consists of lowercase letters without spaces, and is no more than 20 characters long.
        In addition, there are no duplicate member names.
     2. Age is entered in the form of a natural number and is limited to the range of 10~99 years old.
@@ -12,6 +12,7 @@ The data format and conditions are as follows.
        A: 6 month, B: 1 year, C: 2 years, D: 3 years
     5. The arguments in each data are all separated by space characters.
     6. Each member information is written by line and is divided by a new character.
+    ```
 
 - User info manager is worked some commands, `LOAD`, `ADD`, `QPOP`, `SEARCH`, `PRINT`, `DELETE` and `EXIT`.\
 Each commands are explained in following table.
