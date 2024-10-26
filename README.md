@@ -1,5 +1,6 @@
 # Basic data structure implementation
 ### There may be errors when running in a Windows or other environment so LINUX environment is recommended.
+### (Work Environment : Ubuntu 18.04)
 - This project is implementation of Binary Search Tree(BST) & various data structures, such as linked list and queue.\
 Member information is including `name`, `age`, `collection date` and `type`.\
 The data format and conditions are as follows.
