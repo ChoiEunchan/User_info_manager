@@ -1,6 +1,6 @@
 # Basic data structure implementation
 ### There may be errors when running in a Windows or other environment so LINUX environment is recommended.
-### (Work Environment : Ubuntu 18.04)
+### (Work Environment : C++ - Ubuntu 18.04 / Java - Intellij IDEA Ultimate 2024.3.4 in Windows10)
 - This project is implementation of Binary Search Tree(BST) & various data structures, such as linked list and queue.\
 Member information is including `name`, `age`, `collection date` and `type`.\
 The data format and conditions are as follows.
@@ -126,10 +126,13 @@ Each commands are explained in following table.
     </table>
 
 - After run this program, log file `log.txt` is remained and there are result of each command.
-- Run following codes when you run this program. Current directory must be the root directory of this project.
+- Run following codes when you run this program at Ubuntu and when you wants to run C++ version.<br/>
+  Current directory must be the root of C++ version.
     ``` bash
+    cd [Your path]/User_info_manager/cppVersion/
     make
     ./run
     ```
 
-Reference : https://github.com/KIMMINTAE98/2023_Kwangwoon_Univ_CE_DS_Project_1
+- Run `[Your path]/User_info_manager/javaVersion/Main.java` when you wants to run Java version.<br/><br/>
+- Reference : https://github.com/KIMMINTAE98/2023_Kwangwoon_Univ_CE_DS_Project_1
