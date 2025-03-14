@@ -134,5 +134,6 @@ Each commands are explained in following table.
     ./run
     ```
 
-- Run `[Your path]/User_info_manager/javaVersion/Main.java` when you wants to run Java version.<br/><br/>
+- Run `[Your path]/User_info_manager/javaVersion/Main.java` when you wants to run Java version.<br/>
+  Locattion of `command.txt` and `data.txt` should be at `[Your path]/User_info_manager/javaVersion`. <br/><br/>
 - Reference : https://github.com/KIMMINTAE98/2023_Kwangwoon_Univ_CE_DS_Project_1

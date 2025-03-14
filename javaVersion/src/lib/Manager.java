@@ -132,7 +132,7 @@ public class Manager {
         BufferedReader data_reader;
         int temp = 0;
         try {
-            data_reader = new BufferedReader(new FileReader("./../data.txt"));
+            data_reader = new BufferedReader(new FileReader("./data.txt"));
         } catch (FileNotFoundException e) {
             return 100;
         }
